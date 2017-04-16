@@ -1,0 +1,8 @@
+strongly connected component [1]:
+A B C D 
+strongly connected component [2]:
+E F G 
+strongly connected component [3]:
+H I J K 
+strongly connected component [4]:
+L M N O 
